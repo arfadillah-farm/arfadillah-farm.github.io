@@ -1,12 +1,12 @@
 const main = {
   view: () => {
     return (
-      <div>
+      <div id="wrapper">
         <header id="header">
           <div className="inner">
             <a href="index.html" className="logo">
               <span className="symbol">
-                <img src="images/logo.svg" alt="" />
+                <img src="theme/html5up-phantom/images/logo.svg" alt="" />
               </span>
               <span className="title">Arfadillah Farm</span>
             </a>
@@ -45,7 +45,7 @@ const main = {
           <div className="inner">
             <h1>Arfadillah Farm</h1>
             <span className="image main">
-              <img src="images/pic13.jpg" alt="" />
+              <img src="theme/html5up-phantom/images/pic13.jpg" alt="" />
             </span>
             <p>
               Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
